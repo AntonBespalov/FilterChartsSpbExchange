@@ -1,0 +1,2 @@
+python filterChartsSpbExchange.py
+pause()
